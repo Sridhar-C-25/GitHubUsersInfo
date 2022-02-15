@@ -1,6 +1,6 @@
 # GitHubUsersInfo
 
-npm i
+##npm i
 
 i am using vite,
 
