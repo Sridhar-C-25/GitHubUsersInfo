@@ -1,7 +1,9 @@
 # GitHubUsersInfo
 
-##npm i
+
 
 i am using vite,
+
+npm i
 
 ## npm run dev
